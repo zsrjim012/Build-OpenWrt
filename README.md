@@ -7,7 +7,7 @@
 - Project_source=18.06=4.19
 - Spirit_source=21.02=5.4
 
-- ### 《[如何在本地使用此项目编译](https://github.com/danshui-git/shuoming/blob/master/bendi.md)》
+- ### 《[本地Ubuntu使用此项目一键编译](https://github.com/danshui-git/shuoming/blob/master/bendi.md)》
 
 - 《[把定时更新插件编译进固件的说明](https://github.com/danshui-git/shuoming/blob/master/%E5%AE%9A%E6%97%B6%E6%9B%B4%E6%96%B0%E6%8F%92%E4%BB%B6.md)》
 
